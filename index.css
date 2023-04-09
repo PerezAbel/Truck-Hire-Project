@@ -1,0 +1,82 @@
+body{
+    background-color: black;    
+     
+}
+
+input{
+    background-color: #ffffff;
+    border: 2px solid #d3d3d3;
+    border-radius: 8px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+    color: maroon;
+    padding: 10px;  
+    margin-top: 1.5em;
+}
+
+button{  
+    color:rgb(158, 5, 5);  
+    background: bisque;   
+    border-color: bisque;
+}
+
+h1{  
+    text-align: center;
+    font-size: 4rem;
+    color: white;
+    top: 0;
+    margin: 0;
+    padding: 0;   
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{  
+    text-align: center;
+    font-size: 2rem;
+    color: maroon;
+    padding: 30px;
+    margin-top: 0.5em;
+}
+
+.grid-container {
+    display: grid;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: minmax(200px, auto);
+    grid-gap: 20px;
+  }
+
+.card {  
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 300px;
+    height: 400px;
+    text-align: center;
+    padding: 15px;
+    margin: 20px;
+    border-radius: 10px;     
+    color: brown;   
+    background-color: beige;
+}   
+
+.card img {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;   
+}       
+
+form{
+    border: 1px solid #ccc;
+    padding: 5px;  
+    margin-bottom: 20%;  
+    color: white;
+}
+a {
+    color:white;  
+    text-decoration: none;  
+    font-size: 2rem;
+  }       
+img{
+    width: 20%;
+    height: 20%;
+}
+  
+
