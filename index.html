@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Truck Hire</title>
+    <link rel="stylesheet" href="index.css" />
+</head>
+<body>    
+  <img src="https://cdn.vectorstock.com/i/preview-1x/42/75/trucking-business-chrome-color-logo-design-vector-45714275.jpg">      
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnl0eSj8KhbrO2VBlMKxjBqv5Tzown0_LxoQ&usqp=CAU" >  
+  <img src="https://www.shutterstock.com/image-photo/red-truck-loading-household-container-260nw-1960587031.jpg"> 
+  <img src="https://media.gettyimages.com/id/173559972/photo/red-tow-truck.jpg?s=612x612&w=gi&k=20&c=hKrAnQkHzC8CPqQJZHQmpcUdk53b6rUhOjvWR0-z9Bk=">
+  <h1> TRUCK HIRE </h1>      
+  <h2>Different Trucks for different Tasks</h2>           
+  <a href="#" onclick="showForm()">Add Truck</a>    
+   <br>
+	<form id="myForm" style="display:none">    
+    <label for="truck type">Truck type</label>  
+    <input type="text" id="truck type" name="truck type"><br><br>    
+    <label for="hire Price">Hire Price</label>  
+    <input type="text" id="hire price" name="hire price"><br><br>     
+    <label for="available"> NO.Available</label>   
+    <input type="text" id="available" name="available"><br><br>  
+    <label for="available">Truck Image</label>   
+    <input type="text" id="image url" name="image url"><br><br>     
+
+		<button type="submit">Submit</button> 
+	</form>   
+  <br>
+  <input type="text" id="search-bar" placeholder="Search...">   
+  <div class="grid-container">
+    <div class="card">   
+      <img src="https://www.freightwaves.com/wp-content/uploads/2020/08/081620-Barrett-Trucking.jpeg" alt="images" >
+      <h3>Livestock Truck</h3>      
+      <p>Hire Price:$2000</p>
+      <p>NO.Available Trucks:50 </p>     
+    <span id="counter">0</span>    
+    <div class="btn-container" >    
+      <button class="btn btn-primary">Hire</button>  
+      <button id="btn btn-primary">Return</button>  
+      <button class="btn btn-primary">Remove</button>  
+     </div>      
+  <div id='root'> </div>       
+    <script src="index.js"></script>         
+</body>
+</html>  
