@@ -1,0 +1,99 @@
+{
+  "Trucks": [
+    {
+      "id": "1",
+      "type": "Livestock Truck",
+      "price": "$2000",   
+      "available":"50",
+      "image":  "https://www.freightwaves.com/wp-content/uploads/2020/08/081620-Barrett-Trucking.jpeg"
+      
+    },
+    {
+      "id": "2",
+      "type": "Funiture Truck",  
+      "available":"50",
+      "price": "$1000",
+      "image": "https://c8.alamy.com/comp/2B8A41W/an-unbraded-commercial-grade-and-heavy-duty-moving-truck-or-furniture-delivery-vehicle-parked-infront-of-a-residential-home-2B8A41W.jpg"
+      
+
+    },
+    {
+      "id": "3",
+      "type": "Tow Truck",   
+      "price": "$3000",  
+      "available":"50",
+      "image": "http://pepestowla.com/wp-content/uploads/2021/04/128444784_1104451253347216_8931518646760560132_n.jpg"
+      
+    },
+    {
+      "id": "4",
+      "type": "Crane Truck",
+      "price": "$3500",   
+      "available":"50",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuOiz7xcvRtwLdXzHXit7kHM72ft7OL71d4Q&usqp=CAU"
+    
+    },
+    {
+      "id": "5",
+      "type": "Tipper Truck",
+      "price": "$3500", 
+      "available":"50",
+      "image": "https://blog.iseekplant.com.au/hs-fs/hubfs/Tipper-truck-hire-1.jpg?width=1000&height=667&name=Tipper-truck-hire-1.jpg"
+    
+    },
+    {
+      "id": "6",
+      "type": "Concrete Truck",
+      "price": "$4000",  
+      "available":"50",
+      "image": "https://aimix.ke/wp-content/uploads/2021/03/Aimix-Concrete-Mixer-Truck-With-Reasonable-Price.jpg"
+    
+    },
+    {
+      "id": "7",
+      "type": "Garbage Truck",  
+      "available":"50",
+      "price": "$500",
+      "image": "https://www.wjtv.com/wp-content/uploads/sites/72/2020/11/trash.jpg?w=1920&h=1080&crop=1"
+      
+    },
+    {
+      "id": "8",
+      "type": "Cargo Truck",
+      "price": "$4000",  
+      "available":"50",
+      "image": "https://media.istockphoto.com/id/1378272223/photo/semi-truck-with-a-shipping-container-on-a-four-lane-highway-near-the-ivanpah-solar-power.jpg?b=1&s=170667a&w=0&k=20&c=ZBAYiXRILxQKwk0jhdPO5mFOlFvGj5aPjKUMpq_Be10="
+    },
+    {
+      "id": "9",
+      "type": "Delivery Truck",
+      "price": "$3800",  
+      "available":"50",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo59NwnJIpf964gtwrdQ9Q6LJ42bIK5PlUhQ&usqp=CAU"
+       
+    },
+    {
+      "id": "10",
+      "type": "Food Truck",
+      "price": "$2500",  
+      "available":"50",
+      "image":"https://static01.nyt.com/images/2021/06/08/multimedia/24sp-smallbiz-foodtrucks2/24sp-smallbiz-foodtrucks2-videoSixteenByNine3000.jpg?year=2021&h=1689&w=3000&s=5fc84d087f01835b1fd2984f3c553789ccb718b69802fbcad25d79532f6ab8f0&k=ZQJBKqZ0VN&tw=1"
+    },
+    {
+      "id": "11",
+      "type": "Dump Truck",
+      "price": "$3000",  
+      "available":"50",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/200_Ton_Truck.JPG/1200px-200_Ton_Truck.JPG"
+      
+    },
+    {
+      "id": "12",
+      "type": "Road Roller Truck",
+      "price": "$4000",   
+      "available":"50",
+      "image": "https://i.pinimg.com/originals/b9/b9/b0/b9b9b052191b40d7e3987c90f8297a89.jpg"
+      
+    }
+  ]
+}
